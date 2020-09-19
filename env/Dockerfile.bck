@@ -1,0 +1,13 @@
+FROM tensorflow/tensorflow:2.1.0-gpu-py3-jupyter
+
+SHELL ["/bin/bash", "-c"]
+
+COPY settings/ /opt/settings/
+
+RUN pip install -r /opt/settings/requirements.txt
+RUN echo "root:root" | chpasswd
+
+RUN jupyter notebook --generate-config && \
+    cp -r /opt/settings/jupyter_notebook_config.py ~/.jupyter/
+
+CMD ["/bin/bash", "-c", "jupyter notebook --allow-root"]
