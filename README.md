@@ -2,7 +2,7 @@
 
 ---
 
-[Wissem Chabchoub](https://www.linkedin.com/in/wissem-chabchoub/) | [Contact us][chb.wissem@gmail.com]
+[Wissem Chabchoub](https://www.linkedin.com/in/wissem-chabchoub/) | [Contact us](mailto:chb.wissem@gmail.com)
 
 ## 📝 Table of Contents
 
