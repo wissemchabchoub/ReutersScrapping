@@ -13,7 +13,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-In this prpject, we are scrapping artciles from Reuters Website discussing specific assets from the american market. This appraoch can be generalized to every other market and every othe asset or ticker. 
+In this project, we are scrapping artciles from Reuters Website discussing specific assets from the american market. This appraoch can be generalized to every other market and every othe asset or ticker. 
 
 
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
