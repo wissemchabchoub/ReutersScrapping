@@ -13,7 +13,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-In this project, we are scrapping artciles from Reuters Website discussing specific assets from the american market. This appraoch can be generalized to every other market and every othe asset or ticker. 
+In this project, we are scrapping articles from Reuters Website discussing specific assets from the American market. This approach can be generalized to every other market and every other asset or ticker. 
 
 
 ## 🎥 Repository Structure  <a name = "repo-struct"></a>
@@ -21,5 +21,5 @@ In this project, we are scrapping artciles from Reuters Website discussing speci
 
 1. `data`: Where the input tickers are saved and the scrapped articles will be saved
 2. `fetchers`: Contains the main python class
-3. `env` : contains the docker env
-4. `Notebook.ipynb` : a jupyter notebook for running and testing
+3. `env`: contains the docker env
+4. `Notebook.ipynb`: a Jupyter notebook for running and testing
